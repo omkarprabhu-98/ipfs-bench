@@ -1,0 +1,37 @@
+Spawning ephemeral ipfs node
+/var/folders/v9/z9_bn5p15b39shd82f478rn80000gn/T/ipfs-shell177590235
+libp2p node address: [/ip4/128.61.122.145/tcp/4001/p2p/QmeuQaRQcuCNy7u1cTt8Kv2xEFBYPrwAq2NzKggyKo8hNk /ip4/127.0.0.1/tcp/4001/p2p/QmeuQaRQcuCNy7u1cTt8Kv2xEFBYPrwAq2NzKggyKo8hNk /ip6/::1/tcp/4001/p2p/QmeuQaRQcuCNy7u1cTt8Kv2xEFBYPrwAq2NzKggyKo8hNk /ip4/128.61.122.145/udp/4001/quic/p2p/QmeuQaRQcuCNy7u1cTt8Kv2xEFBYPrwAq2NzKggyKo8hNk /ip4/127.0.0.1/udp/4001/quic/p2p/QmeuQaRQcuCNy7u1cTt8Kv2xEFBYPrwAq2NzKggyKo8hNk /ip6/::1/udp/4001/quic/p2p/QmeuQaRQcuCNy7u1cTt8Kv2xEFBYPrwAq2NzKggyKo8hNk]
+0 sec ==> 16 peers
+1 sec ==> 30 peers
+2 sec ==> 33 peers
+3 sec ==> 34 peers
+4 sec ==> 34 peers
+5 sec ==> 35 peers
+6 sec ==> 35 peers
+7 sec ==> 49 peers
+8 sec ==> 59 peers
+9 sec ==> 60 peers
+10 sec ==> 61 peers
+11 sec ==> 61 peers
+12 sec ==> 61 peers
+13 sec ==> 63 peers
+14 sec ==> 81 peers
+15 sec ==> 93 peers
+16 sec ==> 99 peers
+17 sec ==> 107 peers
+18 sec ==> 113 peers
+19 sec ==> 119 peers
+20 sec ==> 126 peers
+21 sec ==> 126 peers
+22 sec ==> 126 peers
+23 sec ==> 125 peers
+24 sec ==> 125 peers
+25 sec ==> 125 peers
+26 sec ==> 124 peers
+27 sec ==> 124 peers
+28 sec ==> 123 peers
+29 sec ==> 123 peers
+1219 peers ==> avg time 138 msec per peer
+10 get requests ==> time 4840 msec
+20 get requests ==> time 8247 msec
+40 get requests ==> time 14669 msec
